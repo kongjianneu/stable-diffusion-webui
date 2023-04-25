@@ -159,3 +159,8 @@ Licenses for borrowed code can be found in `Settings -> Licenses` screen, and al
 - UniPC sampler - Wenliang Zhao - https://github.com/wl-zhao/UniPC
 - Initial Gradio script - posted on 4chan by an Anonymous user. Thank you Anonymous user.
 - (You)
+
+## reference
+- https://civitai.com/
+- http://www.atoolbox.net/Tool.php?Id=1101
+- https://promptomania.com/stable-diffusion-prompt-builder/
